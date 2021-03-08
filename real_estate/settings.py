@@ -82,7 +82,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'btre_db',
-        'USER': 'postgres',
+        'USER': 'reema',
         'PASSWORD': 'root',
         'HOST': 'localhost',
         'PORT': '',
